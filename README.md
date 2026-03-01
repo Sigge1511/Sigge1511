@@ -2,8 +2,11 @@
 (aka Maja Sigfeldt)
 
 <div align="center">
- 
-## Fullstack | .NET | Docker | Azure <br> Claude | Gemini | Squad
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) 
+## Claude | Gemini | Squad
 
 </div>
 
