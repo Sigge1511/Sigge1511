@@ -2,7 +2,8 @@
 (aka Maja Sigfeldt)
 
 
-🔭 I’m currently working on: Building a CMS for my internship, but besides that I hope to add some fun smaller project to my portfolio too.
+
+🔭 I’m currently working on: Building some systems from scratch for my internship, but besides that I hope to add some fun smaller project to my portfolio too.
 
 🌱 I’m currently learning: Docker, working with the terminal more (which was majorly scary at first for a newbie 👻) and getting Brady Gasters Squad to create wonders for me.
 
