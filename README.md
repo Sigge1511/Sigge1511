@@ -15,5 +15,12 @@
 📫 How to reach me: LinkedIn or find me on discord under the same name; sigge1511
 
 😄 Pronouns: She/her/nerd
+
 ⚡ Fun fact: I'm actually pretty blessed with green fingers and I love to take of my rare plants and growing veggies in the summer. If you're my neighbor I might give you unwanted veggies when I can't manage to eat it all.
+
+--
+
+📜 Background: I was a journalist and editor for 15 years before deciding to switch gears and dove into this world. Besides building some (rad) html pages about made up dream horses in middle school I had no prior knowledge of coding or software development. But what I **DO** have experience of is digesting large quantities of new and complex information very quickly and then "translate" it all to a simple and understandable presentation to the viewers or readers. To quickly grasp new concepts, seeing the bigger picture of how X, Y and X all are connected and affect one another. 
+
+As a bonus, as a former colleague said, when you hire a former journalist you hire a very versitile person - but you need to be ready for some cynism and dark humor 😇 I promise to compensate with cookies.
 
