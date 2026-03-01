@@ -1,7 +1,11 @@
-## Hi from Sigge 👋
+# Hi from Sigge 👋
 (aka Maja Sigfeldt)
 
+<div align="center">
+ 
+## Fullstack | .NET | Docker | Azure <br> Claude | Gemini | Squad
 
+</div>
 
 🔭 I’m currently working on: Building some systems from scratch for my internship, but besides that I hope to add some fun smaller project to my portfolio too.
 
