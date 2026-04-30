@@ -18,7 +18,7 @@
 
 ## Quick Intro
 
-🔭 I’m currently working on: Building some systems from scratch for my internship, but besides that I hope to add some fun smaller project to my portfolio too.
+🔭 I’m currently working on: Building my [portfolio page](https://sigge1511.se), but besides that I hope to add some fun smaller project to my portfolio too.
 
 🌱 I’m currently learning: React, working with the terminal more (which was majorly scary at first for a newbie 👻) and exploring different ai agents to create wonders for me.
 
