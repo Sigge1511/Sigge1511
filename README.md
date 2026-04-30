@@ -5,14 +5,22 @@
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) 
-## Claude | Gemini | Squad
-
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
+[![JSON Web Tokens](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=000000)](https://jwt.io/)
+[![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)](https://oauth.net/2/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+## Claude | Gemini | Copilot
 </div>
+
+## Quick Intro
 
 🔭 I’m currently working on: Building some systems from scratch for my internship, but besides that I hope to add some fun smaller project to my portfolio too.
 
-🌱 I’m currently learning: Docker, working with the terminal more (which was majorly scary at first for a newbie 👻) and getting Brady Gasters Squad to create wonders for me.
+🌱 I’m currently learning: React, working with the terminal more (which was majorly scary at first for a newbie 👻) and exploring different ai agents to create wonders for me.
 
 👯 I’m looking to collaborate on: Fun smaller apps, maybe I build the backend and you excel with smashing UX and design?
 
@@ -20,7 +28,7 @@
 
 💬 Ask me about: The best music for going down the coding rabbit hole.
 
-📫 How to reach me: LinkedIn or find me on discord under the same name; sigge1511
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/maja-sigfeldt) or find me on Discord under the same name; **sigge1511**
 
 😄 Pronouns: She/her/nerd
 
